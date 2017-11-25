@@ -14,7 +14,7 @@
     "scroll",
     "scrollintoview"
   ],
-  "homepage": "https://github.com/adamtal3/jquery-scrollintoview",
+  "homepage": "https://github.com/EdgeMetric/jquery-scrollintoview",
   "moduleType": [
     "amd"
   ]

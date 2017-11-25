@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adamtal3/jquery-scrollintoview.git"
+    "url": "git+https://github.com/EdgeMetric/jquery-scrollintoview.git"
   },
   "keywords": [
     "jquery",
@@ -18,7 +18,7 @@
   "author": "Robert Koritnik",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/adamtal3/jquery-scrollintoview/issues"
+    "url": "https://github.com/EdgeMetric/jquery-scrollintoview/issues"
   },
-  "homepage": "https://github.com/adamtal3/jquery-scrollintoview#readme"
+  "homepage": "https://github.com/EdgeMetric/jquery-scrollintoview#readme"
 }
